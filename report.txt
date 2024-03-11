@@ -1,0 +1,12 @@
+- random trees generation
+- random clouds generation
+- random canyons generation
+- random enemies generation
+- random mountains generation
+- random coin generation
+- jump sound
+- sound when picked up a coin
+- flagpole to win a game
+- when a player win, it displays the time in which the player completed the game
+- 
+- 
